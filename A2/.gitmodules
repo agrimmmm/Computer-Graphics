@@ -1,0 +1,12 @@
+[submodule "extern/tinyobjloader"]
+	path = extern/tinyobjloader
+	url = https://github.com/tinyobjloader/tinyobjloader
+[submodule "extern/json"]
+	path = extern/json
+	url = https://github.com/nlohmann/json
+[submodule "extern/stb"]
+	path = extern/stb
+	url = https://github.com/nothings/stb
+[submodule "extern/tinyexr"]
+	path = extern/tinyexr
+	url = https://github.com/syoyo/tinyexr
